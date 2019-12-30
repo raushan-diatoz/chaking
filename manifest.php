@@ -25,7 +25,7 @@
 return array(
     'name' => 'chaking',
     'label' => 'nothing',
-    'description' => 'i don\'t want',
+    'description' => 'i dont want',
     'license' => 'GPL-2.0',
     'version' => '6.7.0',
     'author' => 'Open Assessment Technologies SA',
